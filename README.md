@@ -1,0 +1,1 @@
+Los datos confidenciales van en ./datos, crear y popular las subcarpetas ./datos/censo, ./datos/denue_raw, ./datos/imu_data, ./datos/mgn y ./osm_data con los datos del inegi, IMU y OpenStreetMaps para nuevo leon / tamaulipas o en su defecto, de todo México. Los archivos originales son muy grandes para subir a github
