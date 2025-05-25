@@ -1,0 +1,28 @@
+[project]
+name = "datathon2025-oxxo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "catboost>=1.2.8",
+    "folium>=0.19.6",
+    "geopandas>=1.0.1",
+    "imblearn>=0.0",
+    "ipykernel>=6.29.5",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.6",
+    "openpyxl>=3.1.5",
+    "osmnx>=2.0.3",
+    "pandas>=2.2.3",
+    "polars>=1.30.0",
+    "pylance>=0.27.2",
+    "pywaffle>=1.1.1",
+    "requests>=2.32.3",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+    "xgboost>=3.0.1",
+]

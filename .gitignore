@@ -1,0 +1,6 @@
+~*.xlsx
+.venv
+mapa_tiendas
+.DS*Store
+uv.lock
+catboost_info
